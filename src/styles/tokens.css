@@ -1,0 +1,15 @@
+/* Dark by design: the teaser is a single night-sky stage in every theme. */
+:root {
+  --bg: #0b0c0f;
+  --text: #e7e5df;
+  --muted: #6f747d;
+  --code: #7fe3a1;
+  --law: #d9b26f;
+
+  --font-mono: 'JetBrains Mono', ui-monospace, Menlo, monospace;
+  --font-serif: 'Fraunces Variable', Georgia, serif;
+
+  --edge: clamp(16px, 3.5vw, 36px);
+
+  color-scheme: dark;
+}
